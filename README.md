@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaito0311
 - 👀 I’m interested in AI/ML 
-- 🌱 I’m currently learning Computer Visioin
+- 🌱 I’m currently learning Computer Vision
 - 📫 You can reach me via email: tanminh8b@gmail.com
 
 <!---
